@@ -1,11 +1,13 @@
 # SCGCN for Semantic Segmentation
 ## Introduction
-This repository contains code of an SCGCN (Self-Constructing Graph Convolutional Network) called MSCG-Net (with ResNet-50 or ResNet-101 encoder backbone) for semantic segmentation of heterogeneous historical map corpora, and the pipeline of training and testing models. Please refer to our paper for details: [Semantic segmentation of historical maps using Self-Constructing Graph Convolutional Networks](https://doi.org/10.1080/15230406.2025.2468304)
+This repository contains code of an SCGCN (Self-Constructing Graph Convolutional Network) called MSCG-Net (with ResNet-50 or ResNet-101 encoder backbone) for semantic segmentation of heterogeneous historical map corpora, and the pipeline of training and testing models. Please refer to our paper for details: 
+
+[Semantic segmentation of historical maps using Self-Constructing Graph Convolutional Networks](https://doi.org/10.1080/15230406.2025.2468304)
 
 ## Code structure
 
 ```
-├── config	# config code
+├── config	      # config code
 ├── data		# dataset loader and pre-processing code
 ├── tools		# train and test code, ckpt and model_load
 ├── lib			# model block, loss, utils code, etc
