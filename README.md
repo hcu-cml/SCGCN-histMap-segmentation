@@ -73,25 +73,11 @@ doi = {10.5194/ica-abs-6-11-2023}
 }
 ```
 
+## Other: 
 The amazing [code](https://github.com/samleoqh/MSCG-Net) our project is based on and their papers:
 
 [Multi-view Self-Constructing Graph Convolutional Networks with Adaptive Class Weighting Loss for Semantic Segmentation](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Liu_Multi-View_Self-Constructing_Graph_Convolutional_Networks_With_Adaptive_Class_Weighting_Loss_CVPRW_2020_paper.pdf)
 
-```
-@InProceedings{Liu_2020_CVPR_Workshops,
-author = {Liu, Qinghui and Kampffmeyer, Michael C. and Jenssen, Robert and Salberg, Arnt-Borre},
-title = {Multi-View Self-Constructing Graph Convolutional Networks With Adaptive Class Weighting Loss for Semantic Segmentation},
-booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-month = {June},
-year = {2020}
-}
-```
+
 [Self-Constructing Graph Convolutional Networks for Semantic Labeling](https://arxiv.org/pdf/2003.06932)
-```
-@inproceedings{liu2020scg,
-  title={Self-Constructing Graph Convolutional Networks for Semantic Labeling},
-  author={Qinghui Liu and Michael Kampffmeyer and Robert Jenssen and Arnt-Børre Salberg},
-  booktitle={Proceedings of IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},
-  year={2020}
-}
-```
+
